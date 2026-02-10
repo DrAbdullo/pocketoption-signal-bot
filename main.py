@@ -1,4 +1,6 @@
 import asyncio
+asyncio.set_event_loop_policy(asyncio.DefaultEventLoopPolicy())
+
 import time
 import requests  # Добавлен для будущего использования ИИ
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
