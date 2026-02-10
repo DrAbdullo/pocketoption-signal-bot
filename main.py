@@ -12,7 +12,7 @@ from pocketoptionapi_async.client import AsyncPocketOptionClient as PocketOption
 TELEGRAM_TOKEN = "7585332890:AAENVuulaujJ3IWatU7D_L6fsMFg5gvxst4"   # от @BotFather
 ALLOWED_USERS = [1604681369]                                     # твой Telegram ID
 
-SSID = "Ae2gt5dO4bc-ormNM"  # Твой SSID из скриншота
+SSID = 42["auth",{"sessionToken":"a1195110ede8da751daea817fe04416b","uid":"119544254","lang":"ru","currentUrl":"cabinet/demo-quick-high-low","isChart":1}]  # Твой SSID из скриншота
 
 po = PocketOption(ssid=SSID, is_demo=False)  # False — реальный, True — демо
 
