@@ -27,3 +27,9 @@ https://console.groq.com/keys
 Grog APi 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
 
 SSID = r"""Ae2gt5dO4bc-ormNM"""
+
+42["auth",{"sessionToken":"a1195110ede8da751daea817fe04416b","uid":"119544254","lang":"ru","currentUrl":"cabinet/demo-quick-high-low","isChart":1}]
+
+42["auth",{"session":"oe7urngbessnpfs3kaseodmof0","isDemo":1,"uid":119544254,"platform":2,"isFastHistory":true,"isOptimized":true}]
+
+42["auth",{"session":"a:4:{s:10:\"session_id\";s:32:\"bacc9e016e79b33fd991e0552ec5f43c\";s:10:\"ip_address\";s:14:\"80.253.249.174\";s:10:\"user_agent\";s:120:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.\";s:13:\"last_activity\";i:1770556174;}0d555b7dbbb09f7091d04df5a4a77384","isDemo":0,"uid":119544254,"platform":2,"isFastHistory":true,"isOptimized":true}]
