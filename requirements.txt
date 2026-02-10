@@ -1,18 +1,9 @@
-# === CORE ===
 python-telegram-bot==20.7
-python-dotenv==1.0.1
-loguru==0.7.2
 
-# === ASYNC / WEBSOCKET (КРИТИЧНО) ===
+pocketoptionapi-async==0.1.8
+
 websockets==10.4
 aiohttp==3.8.6
 
-# === PocketOption ===
-pocketoptionapi-async==1.0.6
-
-# === DATA ===
-pandas==2.1.4
-numpy==1.26.4
-
-# === UTILS ===
-requests==2.31.0
+loguru==0.7.2
+python-dotenv==1.0.1
